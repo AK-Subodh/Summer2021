@@ -40,14 +40,14 @@ This project demonstrates concepts of:
 
 ## Output
 
- - [Demo Video](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo.m4v)
- - [Demo Image1](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img1.PNG)
- - [Demo Image2](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img2.PNG)
- - [Demo Image3](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img3.PNG)
- - [Demo Image4](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img4.PNG)
- - [Demo Image5](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img5.PNG)
- - [Demo Image6](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img6.PNG)
- - [Demo Image7](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/GUIScripts/Editable_Menucard/Images/Demo_img7.PNG)
+ - [Demo Video](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo.m4v)
+ - [Demo Image1](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img1.PNG)
+ - [Demo Image2](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img2.PNG)
+ - [Demo Image3](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img3.PNG)
+ - [Demo Image4](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img4.PNG)
+ - [Demo Image5](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img5.PNG)
+ - [Demo Image6](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img6.PNG)
+ - [Demo Image7](https://github.com/AK-Subodh/Summer2021/blob/main/Editable_Menu_Card/Images/Demo_img7.PNG)
 
 ## Author(s)
 
